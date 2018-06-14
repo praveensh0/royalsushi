@@ -1,0 +1,23 @@
+{
+  "name": "royalsushi",
+  "version": "1.0.0",
+  "description": "Swedish Royal Sushi Food",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveensh0/royalsushi.git"
+  },
+  "author": "Praveen Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveensh0/royalsushi/issues"
+  },
+  "homepage": "https://github.com/praveensh0/royalsushi#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.0.10"
+  }
+}
